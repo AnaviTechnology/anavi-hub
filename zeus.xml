@@ -11,7 +11,7 @@
 	<project name="meta-openembedded" remote="openembedded" revision="zeus"/>
 
 	<!-- Additional layers -->
-	<project path="meta-homebridge" name="leon-anavi/meta-homebridge" />
+	<project path="meta-homebridge" name="leon-anavi/meta-homebridge" revision="zeus" />
 
 	<!-- BSP layers -->
 	<project name="meta-raspberrypi" remote="yocto" revision="zeus" />
